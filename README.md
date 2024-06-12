@@ -11,3 +11,7 @@ Getting Started
 2. Import the sample into Android Studio.
 4. Build and run the sample.
 
+Screenshot
+---------------
+
+<img src="FetchExercise.png" alt="drawing" width="200"/>
